@@ -43,8 +43,8 @@ WorldOptionsYCoordXVariableOffsetList:
 	db PAGE_CONTROLS_Y_COORD, MAX_OPTIONS_PER_PAGE
 
 WorldOptionsText:
-	db   "WORLD OPTIONS"
-	next " VOLCANO:   ON OFF@"
+	db   "WELT OPTIONEN"
+	next " VULKAN:   AN AUS@"
 
 DrawWorldOptionsMenu:
 	hlcoord 0, 0
